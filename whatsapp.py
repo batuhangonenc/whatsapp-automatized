@@ -8,7 +8,7 @@ print("\n\n\nfor stop the loop 'q'.\n\n\n")
 
 while 1:
 	
-	pattern=r"^\+[0-9]* [0-9][0-9][0-9] [0-9][0-9][0-9] [0-9][0-9] [0-9][0-9]$"
+	pattern=r"^\+[0-9]+ [0-9][0-9][0-9] [0-9][0-9][0-9] [0-9][0-9] [0-9][0-9]$"
 
 	num = input("enter a phone number (ex -> +90 xxx xxx xx xx) :")
 
