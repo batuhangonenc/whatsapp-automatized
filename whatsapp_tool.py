@@ -92,4 +92,3 @@ def sendmsg():
 
         loopcounter += 1    
     
-sendmsg()
