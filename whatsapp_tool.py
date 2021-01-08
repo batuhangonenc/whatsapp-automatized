@@ -61,6 +61,7 @@ def sendmsg():
     flag = 0
     while 1:
         if flag == 1:
+            keyboard.release(Key.enter)
             sys.exit()
 
         thetime = datetime.now().strftime("%H : %M")
