@@ -1,4 +1,4 @@
-##an easy-to-use whatsapp message sender.
+#an easy-to-use whatsapp message sender.
 
 Compile setup file then execute.
 
